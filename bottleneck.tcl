@@ -1,7 +1,8 @@
-#In the nam of GOD
+#In the name of GOD
 # Communication Networks Final Project
 #This code is written by Mostafa Amin-Naji
 # For contact: mostafa.amin.naji@gmail.com
+# My official Website: www.Amin-Naji.com
 
 ##############################################################################
 #Part 6 - Find Botleneck Nodes
